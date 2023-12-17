@@ -1,0 +1,24 @@
+/* YourStyles.css */
+
+table {
+    border-collapse: separate;
+    border-spacing: 1px;
+    border: 1px solid #cbd5e0;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: #fff;
+    background-color: black;
+   }
+   
+   th, td {
+    border: 1px solid #cbd5e0;
+    padding: 1rem 3rem;
+    text-align: centre;
+   }
+   
+   th {
+    background-color: #f0f2f5;
+    font-weight: 600;
+   }
+  
